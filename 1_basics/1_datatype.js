@@ -13,3 +13,4 @@
 */
 
 console.log(typeof null);
+//type of null is object//
